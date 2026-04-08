@@ -1,9 +1,9 @@
 import {View,Text} from "react-native";
 
-export default function HomeScreen(){
+export default function ContasPagarScreen(){
     return(
         <View>
-            <Text>Home</Text>
+            <Text>Contas Pagar</Text>
         </View>
     )
 }
